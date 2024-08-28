@@ -1,1 +1,1 @@
-Este repositório contém uma coleção de projetos pessoais e estudos que desenvolvi ao longo do tempo.
+Este repositório contém projetos pessoais, atividades e estudos que desenvolvi através do tempo pela faculdade e cursos.
