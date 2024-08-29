@@ -7,3 +7,5 @@ Meu primeiro site, utilizando somente html. Com o objetivo de ser um site de fac
 
 ## [Site com CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20CSS%20-%20Modelo)
 Primeiro site utilizando css. Sendo para modelos e suas campanhas publicitárias.
+
+## [Blog](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Blog%20-%20CSS%20e%20Html)
