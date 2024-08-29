@@ -13,3 +13,6 @@ Blog feito com Html e CSS.
 
 ## [Css - Parallax](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/CSS%20-%20PARALLAX)
 Utilizando um dos recursos de css, parallax.
+
+## [Site de Notícias](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Site%20de%20Not%C3%ADcias)
+Avançando no desenvolvimento em hmtl e css desenvolvi um site de notícias.
