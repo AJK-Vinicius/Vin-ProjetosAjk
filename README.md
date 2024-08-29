@@ -10,3 +10,6 @@ Primeiro site utilizando css. Sendo para modelos e suas campanhas publicitárias
 
 ## [Blog](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Blog%20-%20CSS%20e%20Html)
 Blog feito com Html e CSS.
+
+## [Css - Parallax](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/CSS%20-%20PARALLAX)
+Utilizando um dos recursos de css, parallax.
