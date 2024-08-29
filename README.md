@@ -32,10 +32,10 @@ Utilizando as seguintes linguagens: Html, Css, Php, JavaScript e MySql
 Conceitos básicos em php.
 
 ## [Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Linguagem%20C%20-%20FOR%2C%20WHILE%2C%20DO%20WHILE)
-Atividades de for, while e do while.
+For, while e do White em C.
 
 # Faculdade
 
-## [Atividades em Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Faculdade%20-%20ATIVIDADES%20Linguagem%20C)
-
+## [Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Faculdade%20-%20ATIVIDADES%20Linguagem%20C)
+Atividades realizadas em aula.
 
