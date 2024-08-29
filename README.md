@@ -20,6 +20,18 @@ Avançando no desenvolvimento em hmtl e css desenvolvi um site de notícias.
 ## [Site Chalé](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Chal%C3%A9)
 Projeto de um chalé utilizando html e css.
 
+# Estudos
+
+## [Estudos Php]()
+Conceitos básicos em php.
+
+## [Linguagem C]()
+Atividades de for, while e do while.
+
+# Faculdade
+
+## [Atividades em Linguagem C]()
+
 ## [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Museu%20Nacional)
 Site do Museu Nacional desenvolvido apartir de curso.
 
