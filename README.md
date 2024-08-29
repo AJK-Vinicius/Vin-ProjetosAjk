@@ -31,7 +31,7 @@ Utilizando as seguintes linguagens: Html, Css, Php, JavaScript e MySql
 ## [Estudos Php](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Estudos%20em%20PHP)
 Conceitos básicos em php.
 
-## [Linguagem C]()
+## [Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Linguagem%20C%20-%20FOR%2C%20WHILE%2C%20DO%20WHILE)
 Atividades de for, while e do while.
 
 # Faculdade
