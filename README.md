@@ -36,6 +36,6 @@ Atividades de for, while e do while.
 
 # Faculdade
 
-## [Atividades em Linguagem C]()
+## [Atividades em Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Faculdade%20-%20ATIVIDADES%20Linguagem%20C)
 
 
