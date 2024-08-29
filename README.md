@@ -22,3 +22,7 @@ Projeto de um chalé utilizando html e css.
 
 ## [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Museu%20Nacional)
 Site do Museu Nacional desenvolvido apartir de curso.
+
+## [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Pizzaria)
+Projeto Pizzaria desenvolvido de um curso. 
+Utilizando as seguintes linguagens: Html, Css, Php, JavaScript e MySql
