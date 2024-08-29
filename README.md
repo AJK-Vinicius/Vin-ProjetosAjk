@@ -2,5 +2,5 @@ Este repositório contém projetos pessoais, atividades e estudos que desenvolvi
 
 # Projetos
 
-## [Site Html] (https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20HTML) 
+## [Site Html](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20HTML) 
 Meu primeiro site, utilizando somente html. Com o objetivo de ser um site de faculdade.
