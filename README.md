@@ -20,9 +20,15 @@ Avançando no desenvolvimento em hmtl e css desenvolvi um site de notícias.
 ## [Site Chalé](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Chal%C3%A9)
 Projeto de um chalé utilizando html e css.
 
+## [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Museu%20Nacional)
+Site do Museu Nacional desenvolvido apartir de curso.
+
+## [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Pizzaria)
+Projeto Pizzaria desenvolvido de um curso. 
+Utilizando as seguintes linguagens: Html, Css, Php, JavaScript e MySql
 # Estudos
 
-## [Estudos Php]()
+## [Estudos Php](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Estudos%20em%20PHP)
 Conceitos básicos em php.
 
 ## [Linguagem C]()
@@ -32,9 +38,4 @@ Atividades de for, while e do while.
 
 ## [Atividades em Linguagem C]()
 
-## [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Museu%20Nacional)
-Site do Museu Nacional desenvolvido apartir de curso.
 
-## [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Pizzaria)
-Projeto Pizzaria desenvolvido de um curso. 
-Utilizando as seguintes linguagens: Html, Css, Php, JavaScript e MySql
