@@ -1,0 +1,227 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+/* Estiliza o HTML e o Body */
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estiliza o Body */
+body {
+    font-family: "Chakra Petch", sans-serif;
+    /* Background Image */
+    background-image: url(../img/paperfundo.jpg);
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área */
+    background-position: center; /* Centraliza a imagem no fundo */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Garante que o rodapé seja empurrado para baixo */
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    min-height: 100vh; /* Garante que o body ocupe pelo menos a altura da tela */
+    color: #fff; /* Define a cor do texto para branco */
+}
+
+/* Estiliza o Main */
+main {
+    flex-grow: 1;
+}
+
+/* Estiliza o Header */
+header {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+/* Estiliza o H1 */
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    letter-spacing: 0.4rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adiciona sombra ao texto para melhor contraste */
+    color: #f2f2f2; /* Cor branca com leve tom cinza para contraste */
+}
+
+/* Estiliza as Seções */
+section {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+}
+
+/* Estiliza a Seção de Pesquisa */
+.search-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+    width: 100%;
+}
+
+/* Estiliza o Input da Seção de Pesquisa */
+.search-section input {
+    width: 30rem;
+    border: none;
+    padding: 1rem;
+    border-radius: 1.5rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8); /* Adiciona um fundo branco translúcido ao input */
+    color: #222831; /* Define a cor do texto do input */
+}
+
+/* Estiliza o Botão da Seção de Pesquisa */
+.search-section button {
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 1.5rem;
+    color: #F5F7F8;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #30475E; /* Define a cor do fundo do botão */
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adiciona sombra ao botão */
+}
+
+/* Estiliza a Classe 'pesquisa' */
+.pesquisa {
+    width: 60rem;
+    height: 46vh;
+    overflow-y: auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 0.6rem;
+    background-color: rgba(255, 255, 255, 0.8); /* Adiciona um fundo branco translúcido à pesquisa */
+    color: #222831; /* Define a cor do texto dentro da pesquisa */
+}
+
+/* Estiliza a Classe 'buttonp' */
+.buttonp {
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: none;
+    background: none;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    position: relative;
+    color: #222831; /* Define a cor do texto do botão */
+}
+
+/* Estiliza o Hover da Classe 'buttonp' */
+.buttonp:hover {
+    font-weight: bold;
+    color: #F05454;
+}
+
+/* Estiliza o Pseudo-elemento After da Classe 'buttonp' */
+.buttonp::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out;
+    background-color: #F05454; /* Define a cor do fundo do pseudo-elemento */
+}
+
+/* Estiliza o Hover do Pseudo-elemento After da Classe 'buttonp' */
+.buttonp:hover::after {
+    transform: scaleX(1);
+}
+
+/* Estiliza a Classe 'caixa' */
+.caixa {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #222831; /* Define a cor do texto dentro da caixa */
+}
+
+/* Estiliza o Rodapé */
+footer {
+    color: #f2f2f2; /* Cor branca com leve tom cinza para contraste */
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    background-color: #30475E; /* Define a cor do fundo do rodapé */
+}
+
+/* Responsividade para Telas Menores que 768px */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem; /* Tamanho da fonte em telas menores */
+        letter-spacing: 0.2rem; /* Espaçamento entre letras em telas menores */
+    }
+
+    .search-section input {
+        width: 25rem; /* Largura dos inputs em telas menores */
+        padding: 0.8rem; /* Espaçamento interno em telas menores */
+    }
+
+    .pesquisa {
+        width: 40rem; /* Largura da caixa de resultados em telas menores */
+        height: 40vh; /* Altura da caixa de resultados em telas menores */
+    }
+}
+
+/* Responsividade para Celulares (Telas Menores que 480px) */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.8rem; /* Tamanho da fonte em telas pequenas */
+        letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
+    }
+
+    .search-section input {
+        width: 17rem; /* Largura total dos inputs em telas pequenas */
+    }
+
+    .search-section button {
+        padding: 0.6rem 1rem; /* Espaçamento interno do botão em telas pequenas */
+        font-size: 0.9rem; /* Tamanho da fonte do botão em telas pequenas */
+    }
+
+    .pesquisa {
+        width: 90%; /* Largura da caixa de resultados em telas pequenas */
+        height: 50vh; /* Altura da caixa de resultados em telas pequenas */
+    }
+
+    footer {
+        font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
+    }
+}
+
+/* Estiliza a Classe 'mensagem' para mensagens de erro */
+.mensagem {
+    background-color: #f8d7da; /* Cor de fundo suave para alerta */
+    border: 1px solid #f5c6cb; /* Borda fina */
+    border-radius: 5px; /* Cantos arredondados */
+    padding: 15px; /* Espaçamento interno */
+    margin-bottom: 20px; /* Espaçamento inferior */
+    text-align: center; /* Alinhamento centralizado */
+}
+
+.mensagem p {
+    color: #721c24; /* Cor do texto para destaque */
+    font-size: 1rem; /* Tamanho da fonte padrão */
+    margin-bottom: 10px; /* Espaçamento entre parágrafos */
+}
+
+.mensagem p:last-child { /* Último parágrafo */
+    margin-bottom: 0; /* Sem espaçamento inferior no último parágrafo */
+}
