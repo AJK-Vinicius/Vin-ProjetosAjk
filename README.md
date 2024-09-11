@@ -1,46 +1,59 @@
-Este repositório contém projetos pessoais, atividades e estudos que desenvolvi através do tempo pela faculdade e cursos.
+# Repositório de Projetos e Estudos
 
-# Projetos
+Este repositório contém projetos pessoais, atividades acadêmicas e estudos desenvolvidos ao longo do tempo, por meio da faculdade e cursos complementares. Cada projeto foi uma oportunidade de aprendizado, com foco em diferentes tecnologias e habilidades.
 
-## [Site Html](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20HTML) 
-Meu primeiro site, utilizando somente html. Com o objetivo de ser um site de faculdade.
+## 📂 **Projetos**
 
-## [Site com CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20CSS%20-%20Modelo)
-Primeiro site utilizando css. Sendo para modelos e suas campanhas publicitárias.
+### [Site HTML](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20HTML) 
+Meu primeiro projeto de site, construído utilizando apenas HTML. O objetivo era criar um site simples para um projeto acadêmico.
 
-## [Blog](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Blog%20-%20CSS%20e%20Html)
-Blog feito com Html e CSS.
+### [Site com CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20CSS%20-%20Modelo)
+Site desenvolvido com HTML e estilizado com CSS. O tema do site é sobre campanhas publicitárias de modelos.
 
-## [Css - Parallax](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/CSS%20-%20PARALLAX)
-Utilizando um dos recursos de css, parallax.
+### [Blog em HTML e CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Blog%20-%20CSS%20e%20Html)
+Um blog simples construído utilizando HTML e CSS, visando reforçar os conceitos de estruturação e estilização de páginas.
 
-## [Site de Notícias](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Site%20de%20Not%C3%ADcias)
-Avançando no desenvolvimento em hmtl e css desenvolvi um site de notícias.
+### [Efeito Parallax em CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/CSS%20-%20PARALLAX)
+Projeto focado em aplicar o efeito Parallax usando CSS, um recurso visual interessante que oferece uma sensação de profundidade durante a rolagem.
 
-## [Site Chalé](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Chal%C3%A9)
-Projeto de um chalé utilizando html e css.
+### [Site de Notícias](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Site%20de%20Not%C3%ADcias)
+Avançando no desenvolvimento front-end, criei um site de notícias, utilizando HTML e CSS para organizar e apresentar conteúdos informativos.
 
-## [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Museu%20Nacional)
-Site do Museu Nacional desenvolvido apartir de curso.
+### [Site Chalé](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Chal%C3%A9)
+Projeto de um site para uma pousada em chalé, desenvolvido com HTML e CSS, com foco em uma apresentação visual agradável e atraente.
 
-## [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Pizzaria)
-Projeto Pizzaria desenvolvido de um curso. 
-Utilizando as seguintes linguagens: Html, Css, Php, JavaScript e MySql
+### [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Museu%20Nacional)
+Este projeto é um site para o Museu Nacional, desenvolvido a partir de um curso que participei. O foco foi em construir uma interface amigável e informativa.
 
-## [Projeto Imersão Alura - Google](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/project_imersao_alura_google)
-Projeto realizado na imersão da Alura com o Google utilizando o Gemini.
-Projeto Front-End com as seguintes linguagens: Html, Css e JavaScript.
+### [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Pizzaria)
+Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando HTML, CSS, PHP, JavaScript e MySQL. O objetivo era simular um sistema completo de pedidos online.
 
-# Estudos
+### [Projeto Imersão Alura - Google](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/project_imersao_alura_google)
+Projeto realizado durante a Imersão Alura em parceria com o Google, utilizando a plataforma Gemini. Este projeto é um front-end construído com HTML, CSS e JavaScript.
 
-## [Estudos Php](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Estudos%20em%20PHP)
-Conceitos básicos em php.
+---
 
-## [Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Linguagem%20C%20-%20FOR%2C%20WHILE%2C%20DO%20WHILE)
-For, while e do White em C.
+## 📚 **Estudos**
 
-# Faculdade
+### [Estudos de PHP](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Estudos%20em%20PHP)
+Conceitos básicos de PHP, explorando a lógica de programação e a interação com servidores web.
 
-## [Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Faculdade%20-%20ATIVIDADES%20Linguagem%20C)
-Atividades realizadas em aula.
+### [Linguagem C - Estruturas de Controle](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Linguagem%20C%20-%20FOR%2C%20WHILE%2C%20DO%20WHILE)
+Estudos sobre as estruturas de repetição (`for`, `while`, `do while`) em C, com exemplos e explicações práticas.
 
+---
+
+## 🎓 **Faculdade**
+
+### [Atividades em Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Faculdade%20-%20ATIVIDADES%20Linguagem%20C)
+Atividades acadêmicas realizadas durante as aulas, focadas na linguagem C e na aplicação de conceitos fundamentais da programação.
+
+---
+
+## 🚀 **Como Contribuir**
+
+Se você tiver interesse em contribuir com algum dos projetos ou estudos, fique à vontade para abrir issues ou enviar pull requests. Toda colaboração é bem-vinda!
+
+Entre em contato
+Email: vinibatistars@gmail.com
+LinkedIn: www.linkedin.com/in/vinícius-batista-050627ajk
