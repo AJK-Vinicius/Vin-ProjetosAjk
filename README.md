@@ -54,6 +54,11 @@ Atividades acadêmicas realizadas durante as aulas, focadas na linguagem C e na 
 
 Se você tiver interesse em contribuir com algum dos projetos ou estudos, fique à vontade para abrir issues ou enviar pull requests. Toda colaboração é bem-vinda!
 
-Entre em contato
-Email: vinibatistars@gmail.com
-LinkedIn: www.linkedin.com/in/vinícius-batista-050627ajk
+---
+
+# 📨 Entre em Contato
+
+Se você tiver dúvidas, sugestões ou quiser trocar ideias, sinta-se à vontade para entrar em contato!
+
+- 📧 **Email**: vinibatistars@gmail.com
+- 💼 **LinkedIn**: www.linkedin.com/in/vinícius-batista-050627ajk
