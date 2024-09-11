@@ -29,7 +29,7 @@ Utilizando as seguintes linguagens: Html, Css, Php, JavaScript e MySql
 
 ## [Projeto Imersão Alura - Google](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/project_imersao_alura_google)
 Projeto realizado na imersão da Alura com o Google utilizando o Gemini.
-Projeto Front-End com as seguintes linguegns: Html, Css e JavaScript.
+Projeto Front-End com as seguintes linguagens: Html, Css e JavaScript.
 
 # Estudos
 
