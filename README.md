@@ -28,6 +28,10 @@ Este projeto é um site para o Museu Nacional, desenvolvido a partir de um curso
 ### [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Pizzaria)
 Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando HTML, CSS, PHP, JavaScript e MySQL. O objetivo era simular um sistema completo de pedidos online.
 
+---
+
+## *Imersões*
+
 ### [Projeto Imersão Alura - Google](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/project_imersao_alura_google)
 Projeto realizado durante a Imersão Alura em parceria com o Google, utilizando a plataforma Gemini. Este projeto é um front-end construído com HTML, CSS e JavaScript.
 
