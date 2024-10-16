@@ -45,6 +45,15 @@ Conceitos básicos de PHP, explorando a lógica de programação e a interação
 ### [Linguagem C - Estruturas de Controle](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Linguagem%20C%20-%20FOR%2C%20WHILE%2C%20DO%20WHILE)
 Estudos sobre as estruturas de repetição (`for`, `while`, `do while`) em C, com exemplos e explicações práticas.
 
+### Formação em CSS - Alura
+Estudos desenvolvidos durante 5 cursos focados em **CSS**:
+
+- [**CSS - Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Flexbox_Layouts)
+- [**CSS - Grid**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Layouts)
+- [**CSS - Sass**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Sass)
+- [**CSS - Tailwind**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Tailwind)
+- [**CSS - Grid e Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Flexbox)
+
 ---
 
 ## 🎓 **Faculdade**
