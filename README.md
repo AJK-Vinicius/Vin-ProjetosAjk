@@ -19,7 +19,7 @@ Estudos desenvolvidos durante 5 cursos focados em **CSS**:
 ### [Bootstrap 5](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Bootstrap%205)
 Utilização de conhecimentos em Bootstrap para criação de uma Landing Page responsiva 
 
-### [Lógica da programação com JavaScript]()
+### [Lógica da programação com JavaScript](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/L%C3%B3gica%20da%20programa%C3%A7%C3%A3o%20com%20JS)
 Desenvolvendo lógica de programação em JavaSript utilizando condicionais, concatenação, loops, operadores...
 
 ---
