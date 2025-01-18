@@ -2,6 +2,28 @@
 
 Este repositório contém projetos pessoais, atividades acadêmicas e estudos desenvolvidos ao longo do tempo, por meio da faculdade e cursos complementares. Cada projeto foi uma oportunidade de aprendizado, com foco em diferentes tecnologias e habilidades.
 
+## 🌊 **Alura**
+
+### [Imersão Alura - Google](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/project_imersao_alura_google)
+Projeto realizado durante a Imersão Alura em parceria com o Google, utilizando a plataforma Gemini. Este projeto é um front-end construído com HTML, CSS e JavaScript.
+
+### Formação em CSS
+Estudos desenvolvidos durante 5 cursos focados em **CSS**:
+
+- [**CSS - Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Flexbox_Layouts)
+- [**CSS - Grid**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Layouts)
+- [**CSS - Sass**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Sass)
+- [**CSS - Tailwind**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Tailwind)
+- [**CSS - Grid e Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Flexbox)
+
+### [Bootstrap 5]()
+Utilização de conhecimentos em Bootstrap para criação de uma Landing Page responsiva 
+
+### [Lógica da programação com JavaScript]()
+Desenvolvendo lógica de programação em JavaSript utilizando condicionais, concatenação, loops, operadores...
+
+---
+
 ## 📂 **Projetos**
 
 ### [Site HTML](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20HTML) 
@@ -30,13 +52,6 @@ Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando H
 
 ---
 
-## 🌊 **Imersões**
-
-### [Imersão Alura - Google](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/project_imersao_alura_google)
-Projeto realizado durante a Imersão Alura em parceria com o Google, utilizando a plataforma Gemini. Este projeto é um front-end construído com HTML, CSS e JavaScript.
-
----
-
 ## 📚 **Estudos**
 
 ### [Estudos de PHP](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Estudos%20em%20PHP)
@@ -44,15 +59,6 @@ Conceitos básicos de PHP, explorando a lógica de programação e a interação
 
 ### [Linguagem C - Estruturas de Controle](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Linguagem%20C%20-%20FOR%2C%20WHILE%2C%20DO%20WHILE)
 Estudos sobre as estruturas de repetição (`for`, `while`, `do while`) em C, com exemplos e explicações práticas.
-
-### Formação em CSS - Alura
-Estudos desenvolvidos durante 5 cursos focados em **CSS**:
-
-- [**CSS - Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Flexbox_Layouts)
-- [**CSS - Grid**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Layouts)
-- [**CSS - Sass**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Sass)
-- [**CSS - Tailwind**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Tailwind)
-- [**CSS - Grid e Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Flexbox)
 
 ---
 
