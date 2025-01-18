@@ -79,5 +79,6 @@ Se você tiver interesse em contribuir com algum dos projetos ou estudos, fique 
 
 Se você tiver dúvidas, sugestões ou quiser trocar ideias, sinta-se à vontade para entrar em contato!
 
+- 📞 **Número**: 11-977659511
 - 📧 **Email**: vinibatistars@gmail.com
 - 💼 **LinkedIn**: www.linkedin.com/in/vinícius-batista-050627ajk
