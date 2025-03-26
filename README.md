@@ -19,7 +19,7 @@ Estudos desenvolvidos durante 5 cursos focados em **CSS**:
 - [**CSS - Tailwind**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Tailwind)
 - [**CSS - Grid e Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Flexbox)
 
-### Formação Desenvolvimento Front End
+### Formação em Desenvolvimento Front End
 Um mergulho em Front End com cursos e artigos.
 
 - [**JS - Páginas Dinâmicas**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/js_p%C3%A1ginas%20din%C3%A2micas)
