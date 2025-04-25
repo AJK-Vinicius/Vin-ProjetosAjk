@@ -16,7 +16,7 @@ Estudos desenvolvidos durante 5 cursos focados em **CSS**:
 - [**CSS - Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/CSS_Flex/Css_Flexbox_Layouts/aluraplay-projeto-base)
 - [**CSS - Grid**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/CSS_Grid/Css_Grid_Layouts/Css_Grid_Layouts/Css_Grid_Layouts)
 - [**CSS - Sass**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/CSS_Sass/Css_Sass)
-- [**CSS - Tailwind**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Tailwind)
+- [**CSS - Tailwind**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/CSS_Tailwind/Css_Tailwind/Tailwind)
 - [**CSS - Grid e Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Flexbox)
 
 ### Formação em Desenvolvimento Front End
