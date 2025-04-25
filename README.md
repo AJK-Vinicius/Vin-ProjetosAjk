@@ -49,7 +49,7 @@ Projeto focado em aplicar o efeito Parallax usando CSS, um recurso visual intere
 ### [Site de Notícias](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_Noticias/Projeto_Site_Not%C3%ADcias)
 Avançando no desenvolvimento front-end, criei um site de notícias, utilizando HTML e CSS para organizar e apresentar conteúdos informativos.
 
-### [Site Chalé](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Chal%C3%A9)
+### [Site Chalé](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_Chal%C3%A9/Projeto_Chal%C3%A9)
 Projeto de um site para uma pousada em chalé, desenvolvido com HTML e CSS, com foco em uma apresentação visual agradável e atraente.
 
 ### [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Museu%20Nacional)
