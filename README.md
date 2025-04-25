@@ -68,6 +68,9 @@ Conceitos básicos de PHP, explorando a lógica de programação e a interação
 ### [Linguagem C - Estruturas de Controle](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Linguagem_C/Linguagem_C_FOR_WHILE_DOWHILE)
 Estudos sobre as estruturas de repetição (`for`, `while`, `do while`) em C, com exemplos e explicações práticas.
 
+### [VisuaAlg](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/VisuAlg_programas/VisuAlg_programas)
+Programas criados durantes estudos de lógica de programação
+
 ---
 
 ## 🎓 **Faculdade**
