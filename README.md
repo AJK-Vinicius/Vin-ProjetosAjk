@@ -62,7 +62,7 @@ Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando H
 
 ## 📚 **Estudos**
 
-### [Estudos de PHP](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Estudos%20em%20PHP)
+### [Estudos de PHP](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Estudos_PHP/Estudos_PHP)
 Conceitos básicos de PHP, explorando a lógica de programação e a interação com servidores web.
 
 ### [Linguagem C - Estruturas de Controle](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Linguagem%20C%20-%20FOR%2C%20WHILE%2C%20DO%20WHILE)
