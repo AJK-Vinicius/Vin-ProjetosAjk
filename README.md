@@ -37,7 +37,7 @@ Desenvolvendo lógica de programação em JavaSript utilizando condicionais, con
 ### [Site HTML](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_HTML/Site_HTML) 
 Meu primeiro projeto de site, construído utilizando apenas HTML. O objetivo era criar um site simples para um projeto acadêmico.
 
-### [Site com CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20CSS%20-%20Modelo)
+### [Site com CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_CSS/Site_CSS_Modelo)
 Site desenvolvido com HTML e estilizado com CSS. O tema do site é sobre campanhas publicitárias de modelos.
 
 ### [Blog em HTML e CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Blog%20-%20CSS%20e%20Html)
