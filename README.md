@@ -72,7 +72,7 @@ Estudos sobre as estruturas de repetição (`for`, `while`, `do while`) em C, co
 
 ## 🎓 **Faculdade**
 
-### [Atividades em Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Faculdade%20-%20ATIVIDADES%20Linguagem%20C)
+### [Atividades em Linguagem C](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Ativ_Linguagem_C/Ativ_Linguagem_C)
 Atividades acadêmicas realizadas durante as aulas, focadas na linguagem C e na aplicação de conceitos fundamentais da programação.
 
 ---
