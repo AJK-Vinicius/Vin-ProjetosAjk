@@ -7,7 +7,7 @@ Este repositório contém projetos pessoais, atividades acadêmicas e estudos de
 ### [Imersão Alura - Google](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/imersao_alura_google/project_imersao_alura_google)
 Projeto realizado durante a Imersão Alura em parceria com o Google, utilizando a plataforma Gemini. Este projeto é um front-end construído com HTML, CSS e JavaScript.
 
-### [Imersão Front End - 2º Edição](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Imers%C3%A3o%20Front%20End%202%C2%BA%20Edi%C3%A7%C3%A3o/spotify)
+### [Imersão Front End - 2º Edição](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Imers%C3%A3o_Front_End_2%C2%BA_Edi%C3%A7%C3%A3o/Imers%C3%A3o_Front_End_2%C2%BA_Edi%C3%A7%C3%A3o/spotify)
 Imersão focada na aplicação de HTML, CSS e JS. Recriando a página inicial do Spotify. 
 
 ### Formação em CSS
