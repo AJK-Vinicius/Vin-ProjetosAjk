@@ -52,7 +52,7 @@ Avançando no desenvolvimento front-end, criei um site de notícias, utilizando 
 ### [Site Chalé](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_Chal%C3%A9/Projeto_Chal%C3%A9)
 Projeto de um site para uma pousada em chalé, desenvolvido com HTML e CSS, com foco em uma apresentação visual agradável e atraente.
 
-### [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Museu%20Nacional)
+### [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Projeto_Museu_Nacional/Projeto_Museu_Nacional)
 Este projeto é um site para o Museu Nacional, desenvolvido a partir de um curso que participei. O foco foi em construir uma interface amigável e informativa.
 
 ### [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Pizzaria)
