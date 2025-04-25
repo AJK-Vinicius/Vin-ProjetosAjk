@@ -13,7 +13,7 @@ Imersão focada na aplicação de HTML, CSS e JS. Recriando a página inicial do
 ### Formação em CSS
 Estudos desenvolvidos durante 5 cursos focados em **CSS**:
 
-- [**CSS - Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Flexbox_Layouts)
+- [**CSS - Flexbox**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/CSS_Flex/Css_Flexbox_Layouts/aluraplay-projeto-base)
 - [**CSS - Grid**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Grid_Layouts)
 - [**CSS - Sass**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Sass)
 - [**CSS - Tailwind**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Css_Tailwind)
