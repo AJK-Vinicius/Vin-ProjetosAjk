@@ -27,7 +27,7 @@ Um mergulho em Front End com cursos e artigos.
 ### [Bootstrap 5](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Bootstrap_5/Bootstrap_5)
 Utilização de conhecimentos em Bootstrap para criação de uma Landing Page responsiva 
 
-### [Lógica da programação com JavaScript](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/L%C3%B3gica%20da%20programa%C3%A7%C3%A3o%20com%20JS)
+### [Lógica da programação com JavaScript](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Logica_Programacao_JS/L%C3%B3gica_programa%C3%A7%C3%A3o_JS)
 Desenvolvendo lógica de programação em JavaSript utilizando condicionais, concatenação, loops, operadores...
 
 ---
