@@ -43,7 +43,7 @@ Site desenvolvido com HTML e estilizado com CSS. O tema do site é sobre campanh
 ### [Blog em HTML e CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Projeto_Blog_HTML_CSS/Projeto_Blog_CSS_Html)
 Um blog simples construído utilizando HTML e CSS, visando reforçar os conceitos de estruturação e estilização de páginas.
 
-### [Efeito Parallax em CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/CSS%20-%20PARALLAX)
+### [Efeito Parallax em CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/CSS_Parallax/CSS_PARALLAX)
 Projeto focado em aplicar o efeito Parallax usando CSS, um recurso visual interessante que oferece uma sensação de profundidade durante a rolagem.
 
 ### [Site de Notícias](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Site%20de%20Not%C3%ADcias)
