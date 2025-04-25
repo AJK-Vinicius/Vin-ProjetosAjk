@@ -22,7 +22,7 @@ Estudos desenvolvidos durante 5 cursos focados em **CSS**:
 ### Formação em Desenvolvimento Front End
 Um mergulho em Front End com cursos e artigos.
 
-- [**JS - Páginas Dinâmicas**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/js_p%C3%A1ginas%20din%C3%A2micas)
+- [**JS - Páginas Dinâmicas**](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/JS_Dinamico/js_p%C3%A1ginas_din%C3%A2micas)
 
 ### [Bootstrap 5](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Bootstrap%205)
 Utilização de conhecimentos em Bootstrap para criação de uma Landing Page responsiva 
