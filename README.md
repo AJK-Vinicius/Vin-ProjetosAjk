@@ -55,7 +55,7 @@ Projeto de um site para uma pousada em chalé, desenvolvido com HTML e CSS, com 
 ### [Site Museu Nacional](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Projeto_Museu_Nacional/Projeto_Museu_Nacional)
 Este projeto é um site para o Museu Nacional, desenvolvido a partir de um curso que participei. O foco foi em construir uma interface amigável e informativa.
 
-### [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Pizzaria)
+### [Projeto Pizzaria](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Projeto_Pizzaria/Projeto_Pizzaria)
 Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando HTML, CSS, PHP, JavaScript e MySQL. O objetivo era simular um sistema completo de pedidos online.
 
 ---
