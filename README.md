@@ -65,7 +65,7 @@ Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando H
 ### [Estudos de PHP](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Estudos_PHP/Estudos_PHP)
 Conceitos básicos de PHP, explorando a lógica de programação e a interação com servidores web.
 
-### [Linguagem C - Estruturas de Controle](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Linguagem%20C%20-%20FOR%2C%20WHILE%2C%20DO%20WHILE)
+### [Linguagem C - Estruturas de Controle](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Linguagem_C/Linguagem_C_FOR_WHILE_DOWHILE)
 Estudos sobre as estruturas de repetição (`for`, `while`, `do while`) em C, com exemplos e explicações práticas.
 
 ---
