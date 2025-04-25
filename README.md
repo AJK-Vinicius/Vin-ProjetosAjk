@@ -46,7 +46,7 @@ Um blog simples construído utilizando HTML e CSS, visando reforçar os conceito
 ### [Efeito Parallax em CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/CSS_Parallax/CSS_PARALLAX)
 Projeto focado em aplicar o efeito Parallax usando CSS, um recurso visual interessante que oferece uma sensação de profundidade durante a rolagem.
 
-### [Site de Notícias](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Site%20de%20Not%C3%ADcias)
+### [Site de Notícias](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_Noticias/Projeto_Site_Not%C3%ADcias)
 Avançando no desenvolvimento front-end, criei um site de notícias, utilizando HTML e CSS para organizar e apresentar conteúdos informativos.
 
 ### [Site Chalé](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Chal%C3%A9)
