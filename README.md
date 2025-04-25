@@ -34,7 +34,7 @@ Desenvolvendo lógica de programação em JavaSript utilizando condicionais, con
 
 ## 📂 **Projetos**
 
-### [Site HTML](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20HTML) 
+### [Site HTML](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_HTML/Site_HTML) 
 Meu primeiro projeto de site, construído utilizando apenas HTML. O objetivo era criar um site simples para um projeto acadêmico.
 
 ### [Site com CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Site%20CSS%20-%20Modelo)
