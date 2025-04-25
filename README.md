@@ -40,7 +40,7 @@ Meu primeiro projeto de site, construído utilizando apenas HTML. O objetivo era
 ### [Site com CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_CSS/Site_CSS_Modelo)
 Site desenvolvido com HTML e estilizado com CSS. O tema do site é sobre campanhas publicitárias de modelos.
 
-### [Blog em HTML e CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/Projeto%20Blog%20-%20CSS%20e%20Html)
+### [Blog em HTML e CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Projeto_Blog_HTML_CSS/Projeto_Blog_CSS_Html)
 Um blog simples construído utilizando HTML e CSS, visando reforçar os conceitos de estruturação e estilização de páginas.
 
 ### [Efeito Parallax em CSS](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/main/CSS%20-%20PARALLAX)
