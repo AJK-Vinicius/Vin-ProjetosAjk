@@ -2,6 +2,12 @@
 
 Este repositório contém projetos pessoais, atividades acadêmicas e estudos desenvolvidos ao longo do tempo, por meio da faculdade e cursos complementares. Cada projeto foi uma oportunidade de aprendizado, com foco em diferentes tecnologias e habilidades.
 
+## 🏫 **FIAP**
+
+### [Tech Challenge - Fase 1](https://github.com/3frnt-group6-tc1/Tech-Challange-1)
+Projeto desenvolvido como parte do Tech Challenge da pós-graduação em Front-end Engineering da FIAP.
+Aplicamos na prática o uso de Angular, JSON Server, Storybook e Design System no Figma para criar uma aplicação web de gerenciamento financeiro, com funcionalidades de visualização, adição, edição e exclusão de transações.
+
 ## 🌊 **Alura**
 
 ### [Imersão Alura - Google](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/imersao_alura_google/project_imersao_alura_google)
