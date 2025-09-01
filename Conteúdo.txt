@@ -1,0 +1,45 @@
+React é uma biblioteca para criar interfaces de usuário interativas. 
+- Desenvolvido pela Meta
+- IOS & Android (React Native) & Desktop (Electron)
+- Tecnologia mais demandada para aplicações WEB
+-------------------------------------------------------
+Componentes
+Podemos dividir a aplicação em partes. Usando JSX.
+-------------------------------------------------------
+O React gera uma aplicação SPA (Single Page Application)
+Vantagens SPAs
+- Velocidade
+- Experiência do usuário
+-------------------------------------------------------
+State (Estado)
+Ele altera uma várievel do componente 
+Permitindo que ele seja redenrizado novamente (F5)
+-------------------------------------------------------
+Os hooks são funções especiais do React (introduzidas a partir da versão 16.8) 
+Que permitem usar recursos de componentes de classe (como estado, ciclo de vida, etc.) em componentes funcionais.
+- useState
+- useEffect
+- useRef
+- useContext
+- useMemo
+- useCallback
+-------------------------------------------------------
+Promps é um mecanismo para passar dados de um componente pai para um componente filho.
+-------------------------------------------------------
+KEY (key) é um atributo de string especial que deve ser incluído ao renderizar listas de elementos.
+Como <li>elementos dentro de uma <ul>classe ou <ol>. 
+Seu objetivo principal é ajudar o React a identificar com eficiência quais itens em uma lista foram alterados, adicionados ou removidos.
+-------------------------------------------------------
+map() é o método de array JavaScript fundamental, comumente usado para renderizar listas de elementos dinamicamente. 
+Ele permite iterar sobre um array de dados e transformar cada item em um elemento JSX correspondente, criando efetivamente um novo array de componentes React
+-------------------------------------------------------
+Para fazer gerenciamento de pages (rotas) usamos o react-router-dom pois o react é um SPA (Single Page Application)
+-------------------------------------------------------
+query-params é um paramtro que passo junto com minha URL
+-------------------------------------------------------
+sempre que no react tiver um use é um hook, sendo pra um pra uma funcionalide
+-------------------------------------------------------
+localStore é um armazenamento do navegador do usuário onde podemos armazenar strings
+-------------------------------------------------------
+Para fazer chamadas a API usamos o axios ou o fetch do proprio js
+-------------------------------------------------------
