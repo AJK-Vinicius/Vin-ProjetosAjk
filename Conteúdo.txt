@@ -43,3 +43,6 @@ localStore é um armazenamento do navegador do usuário onde podemos armazenar s
 -------------------------------------------------------
 Para fazer chamadas a API usamos o axios ou o fetch do proprio js
 -------------------------------------------------------
+Os componente padrões são funcões, porém temos os componentes de classes, utilizando conceitos de POO, OBS : não pode utilizar hooks
+-------------------------------------------------------
+
