@@ -68,6 +68,10 @@ Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando H
 
 ## 📚 **Estudos**
 
+### [Gerenciador de Tarefas - React](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/g_tarefas_react)
+Projeto desenvolvido aplicando conceitos de componentes, hooks, props, rotas, localStorage e consumo de APIs.
+
+
 ### [Estudos de PHP](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Estudos_PHP/Estudos_PHP)
 Conceitos básicos de PHP, explorando a lógica de programação e a interação com servidores web.
 
