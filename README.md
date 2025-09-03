@@ -68,6 +68,9 @@ Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando H
 
 ## 📚 **Estudos**
 
+### [Registros de Usuários - React](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/user_register_react)
+Projeto desenvolvido para estudo dos conceitos de react como hooks, axios...
+
 ### [Gerenciador de Tarefas - React](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/g_tarefas_react)
 Projeto desenvolvido aplicando conceitos de componentes, hooks, props, rotas, localStorage e consumo de APIs.
 
