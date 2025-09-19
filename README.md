@@ -5,8 +5,14 @@ Este repositório contém projetos pessoais, atividades acadêmicas e estudos de
 ## 🏫 **FIAP**
 
 ### [Tech Challenge - Fase 1](https://github.com/3frnt-group6-tc1/Tech-Challange-1)
-Projeto desenvolvido como parte do Tech Challenge da pós-graduação em Front-end Engineering da FIAP.
-Aplicamos na prática o uso de Angular, JSON Server, Storybook e Design System no Figma para criar uma aplicação web de gerenciamento financeiro, com funcionalidades de visualização, adição, edição e exclusão de transações.
+Projeto desenvolvido como primeira parte do Tech Challenge da pós-graduação em Front-end Engineering da FIAP.
+Criamos a base da aplicação, utilizando Angular, JSON Server, Storybook e Design System no Figma para criar uma aplicação web de gerenciamento financeiro, com funcionalidades de visualização, adição, edição e exclusão de transações.
+
+### [Tech Challenge - Fase 2](https://github.com/3frnt-group6-tc1/Tech-Challange-2)
+Nesta fase, evoluímos nossa aplicação para uma arquitetura com microfrontend, explorando ambientes cloud, performance e segurança. Também implementamos filtros avançados, paginação e upload de recibos, aprimorando a experiência do usuário.
+
+### [Tech Challenge - Fase 3](https://github.com/3frnt-group6-tc1/Tech-Challange-3)
+Seguindo, expadimos a aplicação para o mundo mobile, criando novas interfaces e funcionalidades com React Native e Flutter, garantindo suporte tanto para web quanto para dispositivos móveis. 
 
 ## 🌊 **Alura**
 
