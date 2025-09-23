@@ -74,6 +74,9 @@ Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando H
 
 ## 📚 **Estudos**
 
+### [Testes - React](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/tests_react)
+Estudos e prática de testes unitários e de integração em React utilizando Jest e React Testing Library.
+
 ### [Registros de Usuários - React](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/user_register_react)
 Projeto desenvolvido para estudo dos conceitos de react como hooks, axios...
 
