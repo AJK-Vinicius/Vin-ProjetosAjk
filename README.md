@@ -74,7 +74,8 @@ Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando H
 
 ## 📚 **Estudos**
 
-### [React Native](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/react_native_c)
+### [React Native - Expo](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/react_native_c)
+Aplicativo desenvolvido para estudo e prática de conceitos de React Native com Expo.
 
 ### [Testes - React](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/tests_react)
 Estudos e prática de testes unitários e de integração em React utilizando Jest e React Testing Library.
