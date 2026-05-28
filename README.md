@@ -2,7 +2,7 @@
 
 Este repositório contém projetos pessoais, atividades acadêmicas e estudos desenvolvidos ao longo do tempo, por meio da faculdade e cursos complementares. Cada projeto foi uma oportunidade de aprendizado, com foco em diferentes tecnologias e habilidades.
 
-## 🏫 **FIAP**
+## 🏫 [**FIAP**](https://github.com/3frnt-group6-tc1)
 
 ### [Tech Challenge - Fase 1](https://github.com/3frnt-group6-tc1/Tech-Challange-1)
 Projeto desenvolvido como primeira parte do Tech Challenge da pós-graduação em Front-end Engineering da FIAP.
@@ -13,6 +13,13 @@ Nesta fase, evoluímos nossa aplicação para uma arquitetura com microfrontend,
 
 ### [Tech Challenge - Fase 3](https://github.com/3frnt-group6-tc1/Tech-Challange-3)
 Seguindo, expadimos a aplicação para o mundo mobile, criando novas interfaces e funcionalidades com React Native e Flutter, garantindo suporte tanto para web quanto para dispositivos móveis. 
+
+### [Tech Challenge - Fase 4](https://github.com/3frnt-group6-tc1/Tech-Challange-4)
+Evolução da aplicação de gerenciamento financeiro, com funcionalidades de gerenciamento de transações financeiras, com recursos de navegação, segurança, autenticação e armazenamento em cloud.
+
+### [Tech Challenge - Fase 5](https://github.com/3frnt-group6-tc1/Tech-Challange-5-Monorepo)
+MindEase - Plataforma de bem-estar cognitivo acessível, com foco em gestão de tarefas, sessões de foco (Pomodoro), respiração guiada e relatórios.
+
 
 ## 🌊 **Alura**
 
@@ -46,6 +53,12 @@ Desenvolvendo lógica de programação em JavaSript utilizando condicionais, con
 
 ## 📂 **Projetos**
 
+### [GitHub - Users](https://github.com/AJK-Vinicius/github_users)
+Buscador de Usuários do GitHub
+
+### [IBGE - Dashboard](https://github.com/AJK-Vinicius/ibge_dashboard)
+Dashboard para visualização de dados econômicos do IBGE, desenvolvido com React.js e Next.js.
+
 ### [Site HTML](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/Site_HTML/Site_HTML) 
 Meu primeiro projeto de site, construído utilizando apenas HTML. O objetivo era criar um site simples para um projeto acadêmico.
 
@@ -73,6 +86,9 @@ Projeto desenvolvido em um curso, onde criei o site de uma pizzaria utilizando H
 ---
 
 ## 📚 **Estudos**
+
+### [Lojinha de Filmes](https://github.com/AJK-Vinicius/movie_store)
+Loja de filmes consumindo a API do TMDb.
 
 ### [React Native - Expo](https://github.com/AJK-Vinicius/Vin-ProjetosAjk/tree/react_native_c)
 Aplicativo desenvolvido para estudo e prática de conceitos de React Native com Expo.
